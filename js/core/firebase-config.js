@@ -18,7 +18,6 @@ G.FIREBASE_CONFIG = {
   storageBucket: "pokesurvivor-f806e.firebasestorage.app",
   messagingSenderId: "984287468887",
   appId: "1:984287468887:web:0ea384f794605eae207212",
-  measurementId: "G-9WM971PEBR"
 };
 
 /* Ejemplo de cómo debe quedar:
